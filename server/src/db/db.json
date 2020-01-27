@@ -1,0 +1,14 @@
+{
+    "user": {
+      "id": "K04PYUCRG4y5kQlmQCUxI",
+      "createdAt": 1580016591880,
+      "username": "amy.admin"
+    },
+    "fields": [
+      {
+        "id": "GZuE7kB8NfeTQG8OVI6Do",
+        "createdAt": 1579999557570,
+        "name": "name__v"
+      }
+    ]
+  }
